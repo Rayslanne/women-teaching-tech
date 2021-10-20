@@ -127,7 +127,7 @@ O objetivo dessa lista é promover o protagonismo feminino através da divulgaç
 
 - [Liara Programadora :brazil:](https://www.youtube.com/channel/UCkjlpKaG0SUeCQso6Lt2gbg "Canal do Youtube de Liara Programadora") **(Tecnologia)** Conteúdo de programação voltado para o frontend.
 
-- [Marcela dos Santos :brazil:] (https://www.youtube.com/c/MarceladosSantos "Canal do Youtobe de Marcela dos Santos") **(Tecnologia)** Conteúdo sobre robótica, electicidade, ciência e programação
+- [Marcela dos Santos :brazil:] (https://www.youtube.com/c/MarceladosSantos "Canal do Youtobe de Marcela dos Santos") **(Tecnologia)** Conteúdo sobre robótica, electicidade, ciência e programação.
 
 - [Miriam TechCod :brazil:](https://www.youtube.com/channel/UCBJKi6wqJPj0wEU4U2bf_Bg "Canal do Youtube da Miriam TechCod") **(Programação)** Vídeos sobre algoritmos, PHP e C#.
 
